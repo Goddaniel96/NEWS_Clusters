@@ -1,6 +1,6 @@
 # 📊 NEWS_Clusters
 
-This project clusters news articles using BERT embeddings and visualizes them.
+This project clusters news articles using Nomic-embbed-text embeddings and visualizes them.
 
 ## 🚀 Getting Started
 
